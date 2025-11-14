@@ -34,6 +34,7 @@ Important SQL questions:
 
 
 SQL Answer :
+
 #1. Retrieve all successful bookings:
 Select * From Successful_Bookings;
 
